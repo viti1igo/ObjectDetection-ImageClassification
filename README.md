@@ -16,12 +16,13 @@ The notebook (`code.ipynb`) demonstrates dataset preparation, model training, ev
 
 ## 📊 Dataset
 Within my Drive: https://drive.google.com/drive/folders/1BHmOFqlkxvJpgmocPkOqjOVpBYQn7R6I?usp=sharing
-Train: 2513 images
-Validation: 314 images
-Test: 314 images
-Total: 3142 images
 
+Get to known more within the notebook
 ---
 
 ## Result:
-Test Accuracy: 84.71%
+1. Image Classification
+- Test Accuracy: 84.71%
+
+2. Object Detection
+- 
